@@ -2,7 +2,7 @@
 
 Student, Hainan University
 
-Web Security, [HnuSec](https://www.hnusec.com/) & [V&M Team](https://vnteam.cn/)
+Web Security, [HnuSec](https://www.hnusec.com/) & [V&N Team](https://vnteam.cn/)
 
 | Web Security | Code audit |
 
