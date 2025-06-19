@@ -12,3 +12,8 @@ QQ：MTA2MDA4OTM3MQ==
 
 Wechat：ZXdvamlfMDA=
 
+CVE-List
+
+| CVE           | System  |
+| ------------- | ------- |
+| CVE-2025-6335 | dedeCMS |
