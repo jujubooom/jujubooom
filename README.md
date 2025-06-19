@@ -12,7 +12,6 @@ QQ：MTA2MDA4OTM3MQ==
 
 Wechat：ZXdvamlfMDA=
 
-CVE-List
 
 | CVE           | System  |
 | ------------- | ------- |
